@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/All project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Grace"
+	}
+}
